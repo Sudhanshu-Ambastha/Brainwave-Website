@@ -3,9 +3,13 @@
 ## Introduction
 Brainwave-Website is a modern and responsive landing page built using React and TailwindCSS. It includes multiple sections such as Benefits, Collaboration, Services, Pricing, Roadmap, and more. This project aims to provide a sleek and functional user interface for showcasing the capabilities of the Brainwave application.
 
+## Preview
+<picture><img src="landingpage/Brainwave.gif" width="100%"></picture>
+
 ## Table of Contents
 - [Brainwave-Website](#brainwave-website)
   - [Introduction](#introduction)
+  - [Preview](#preview)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
